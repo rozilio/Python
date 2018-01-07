@@ -1,2 +1,4 @@
-Hi!
-Im a read txt file
+python service template requirements:
+pyWin32: https://github.com/mhammond/pywin32/releases
+  use: from admin cmd: python <python script> install/remove
+       maybe beed to change the user running the service
